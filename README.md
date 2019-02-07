@@ -12,3 +12,6 @@ https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-th
 Framework:
  - Caffe
   http://caffe.berkeleyvision.org/
+
+Practical Bayesian Optimization:
+https://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf
