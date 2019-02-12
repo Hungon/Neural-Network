@@ -11,6 +11,6 @@
 <li><a href="https://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf">Practical Bayesian Optimization</a></li>
 
 <h4>Framework:</h4>
- <li><a href="http://caffe.berkeleyvision.org/">- Caffe</a></li>
+ <li><a href="http://caffe.berkeleyvision.org/">Caffe</a></li>
  
- <li><a href="https://github.com/uber/ludwig">- Ludwig</a></li>
+ <li><a href="https://github.com/uber/ludwig">Ludwig</a></li>
