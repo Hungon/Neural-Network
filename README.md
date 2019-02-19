@@ -10,6 +10,10 @@
 
 <li><a href="https://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf">Practical Bayesian Optimization</a></li>
 
+<h6>CNN</h6>
+<li><a href="http://deeplearning.net/tutorial/lenet.html">LeNet</a></li>
+<li><a href="https://www.learnopencv.com/understanding-alexnet/">AlextNet</a></li>
+
 <h4>Framework:</h4>
  <li><a href="http://caffe.berkeleyvision.org/">Caffe</a></li>
  
