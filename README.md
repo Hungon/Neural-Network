@@ -16,5 +16,10 @@
 
 <h4>Framework:</h4>
  <li><a href="http://caffe.berkeleyvision.org/">Caffe</a></li>
- 
+
  <li><a href="https://github.com/uber/ludwig">Ludwig</a></li>
+
+<h4>Renowned Network:</h4>
+<li><a href="http://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html">VGG</a></li>
+<li><a href="https://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf">GoogleNet</a></li>
+<li><a href="https://arxiv.org/pdf/1512.03385.pdf">ResNet</a></li>
