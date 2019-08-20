@@ -6,6 +6,5 @@ You can follow the instruction to install theano from below link.</p>
 <br>
 <p>This prooject contains large files to populate trained data to the class for demonstration, but<br>
 you can get trained data from kaggle with your own credential using below command.</P>
-<code>kaggle competitions download -c digit-recognizer</code>
-<br>
+<p><code>kaggle competitions download -c digit-recognizer</code></p>
 <li>about <a href="https://www.kaggle.com/">kaggle</a></li>
